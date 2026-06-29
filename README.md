@@ -2,7 +2,7 @@
 Project UAS Transformasi Digital berbasis Google Forms dan Google Apps Script
 
 ## Informasi Project
-Project ini merupakan hasil kerja kelompok dalam pembuatan survein
+Project ini merupakan hasil kerja kelompok dalam pembuatan survei
 pemanfaatan Artificial Intelligence dalam pembelajaran menggunakan
 Google Forms, Google Sheets, dan Google Apps Script.
 
