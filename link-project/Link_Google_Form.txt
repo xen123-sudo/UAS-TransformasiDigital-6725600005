@@ -1,0 +1,13 @@
+JUDUL PROJECT
+
+Survei Kebiasaan Mahasiswa dalam Penggunaan AI untuk Pembelajaran
+
+LINK GOOGLE FORM RESPONDEN
+
+https://docs.google.com/forms/d/e/1FAIpQLSdCrwi234YxlE-MOObc7XVV-Pa2f2de0B8G-m8_yY2nqveviQ/viewform
+
+KETERANGAN
+
+Google Form digunakan sebagai media pengumpulan data mengenai kebiasaan mahasiswa dalam menggunakan Artificial Intelligence untuk kegiatan pembelajaran.
+
+Data respons tersimpan secara otomatis di Google Sheets dan diolah menggunakan Google Apps Script.

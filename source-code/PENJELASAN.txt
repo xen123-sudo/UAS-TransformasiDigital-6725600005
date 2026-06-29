@@ -1,0 +1,40 @@
+PENJELASAN SOURCE CODE
+
+Nama Project:
+Survei Kebiasaan Mahasiswa dalam Penggunaan AI untuk Pembelajaran
+
+Jenis Project:
+Sistem survei dan pengolahan data berbasis Google Forms.
+
+Penjelasan:
+
+Project utama dibuat menggunakan Google Forms sebagai media untuk mengumpulkan data responden. Google Forms merupakan platform no-code, sehingga tidak menggunakan source code HTML, CSS, PHP, atau bahasa pemrograman lainnya untuk membuat tampilan formulir.
+
+Untuk memenuhi kebutuhan otomatisasi dan pengolahan data, project ini dilengkapi dengan Google Apps Script yang terdapat pada file Code.gs.
+
+Google Apps Script tersebut digunakan untuk:
+
+1. Mengambil data respons dari Google Sheets.
+2. Menghitung jumlah responden.
+3. Mengelompokkan jawaban berdasarkan setiap pertanyaan.
+4. Menghitung jumlah masing-masing pilihan jawaban.
+5. Membuat sheet Ringkasan secara otomatis.
+6. Memperbarui data ringkasan setiap kali ada respons baru.
+
+Teknologi yang digunakan:
+
+1. Google Forms
+2. Google Sheets
+3. Google Apps Script
+4. JavaScript
+5. GitHub
+
+Cara kerja sistem:
+
+1. Responden mengisi Google Form.
+2. Jawaban responden tersimpan ke Google Sheets.
+3. Pemicu saatFormDikirim dijalankan ketika formulir dikirim.
+4. Fungsi buatRingkasan memproses data jawaban.
+5. Hasil pengolahan ditampilkan pada sheet Ringkasan.
+
+Source code utama terdapat pada file Code.gs.
